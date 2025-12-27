@@ -1,5 +1,7 @@
 # Case Analise de Performance E-commerce de Eletronicos
 Esse projeto consiste em um case de análise de dados de vendas de produtos em um ecommerce de eletrônicos.
+
+
 Ponto de partida:
 
 Eu preciso de um relatório que mostre o nome da Categoria, a quantidade de vendas,
