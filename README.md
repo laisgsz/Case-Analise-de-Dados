@@ -1,5 +1,5 @@
 # Case Analise de Performance E-commerce de Eletronicos
-Esse projeto consiste em um case de análise de dados de vendas de produtos em um ecommerce de eletrônicos.
+Esse projeto consiste em um case de análise de dados de vendas de produtos em um e-commerce de eletrônicos.
 
 <img width="1505" height="655" alt="image" src="https://github.com/user-attachments/assets/f61e479f-345c-47ee-9aae-3ccf6e50663a" />
 
